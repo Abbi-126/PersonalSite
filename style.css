@@ -1,0 +1,51 @@
+.head1 {
+  color: magenta;
+  text-align: center;
+  background-color: lightgrey;
+}
+
+body {
+  margin:10px;
+  padding:20px;
+  background-color: #CCDA46;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  text-align: center;
+  margin:10;
+  padding:20px;
+  color: black;
+}
+
+.mypro {
+  border-radius: 100%;
+  border: solid;
+}
+div{
+  background-color: lightgrey;
+  text-align: center;
+  margin:20px;
+}
+.top{
+  border:solid;
+  border-radius: 10%;
+  margin:20px;
+  padding:20px;
+}
+.hrr{
+  width:1400px;
+}
+.laptop
+{
+  display:block;
+  margin-left: auto;
+  margin-right:auto;
+}
